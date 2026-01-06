@@ -1,0 +1,20 @@
+# ==== 虚拟环境 ====
+# 告诉Git：不要管虚拟环境文件夹
+.venv/
+venv/
+env/
+
+# ==== Python缓存文件 ====
+# 告诉Git：不要管Python临时文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ==== 你自己写的代码 ====
+# 这些是Git要管的：
+# first_opencv.py
+# test_env.py  
+# requirements.txt
+# setup.bat
+# 等等...
