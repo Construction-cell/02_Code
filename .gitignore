@@ -1,2 +1,8 @@
+# Python–Èƒ‚ª∑æ≥ 
 .venv/ 
+venv/ 
+env/ 
+ 
+# Pythonª∫¥Ê 
 __pycache__/ 
+*.pyc 
